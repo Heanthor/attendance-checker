@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Heanthor/attendance-checker/issues"
   },
-  "homepage": "https://github.com/Heanthor/attendance-checker"
+  "homepage": "https://github.com/Heanthor/attendance-checker",
+  "dependencies": {
+    "discord.js": "^8.1.0"
+  }
 }
